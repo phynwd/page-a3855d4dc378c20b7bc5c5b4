@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "2424c86e4418012b652df941",
+  "owner": "phynwd",
+  "repo": "page-a3855d4dc378c20b7bc5c5b4",
+  "title": "tgcoach",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a3855d4dc378c20b7bc5c5b4",
+      "a": "tgcoach",
+      "b": "",
+      "entity": "tgcoach",
+      "brand": "tgcoach",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b591fc924079b63270ca69ad2f9e1ca0945465ea0ef472e97e27ceae1ab2a01f",
+      "content": {
+        "keyword1": "tgcoach",
+        "keyword2": "",
+        "primary_entity": "tgcoach",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "tgcoach 提供跨境网络加速、流媒体解锁与企业专线服务，月付 ¥15 起，支持多设备同时在线，覆盖基础、旗舰与团队场景。",
+          "AI_DESCRIPTION": "tgcoach 提供跨境网络加速、流媒体解锁与企业专线服务，月付 ¥15 起，支持多设备同时在线，覆盖基础、旗舰与团队场景。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--ink:#0a0a0a;--ink-2:#141414;--ink-3:#1f1f1f;--line:#2a2a2a;--line-2:#3a3a3a;--paper:#f4f4f0;--neon:#9eff00;--neon-2:#c7ff5e;--mute:#8a8a8a;--text:#d9d9d9}\n*{box-sizing:border-box;margin:0;padding:0}\nhtml{}\nbody{background:var(--ink);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.5;font-size:15px;-webkit-font-smoothing:antialiased}\na{color:inherit;text-decoration:none}\n.wrap{max-width:1180px;margin:0 auto;padding:0 24px}\n.hero{border-bottom:1px solid var(--line);background:\n    radial-gradient(ellipse at top right, rgba(158,255,0,.05), transparent 60%),\n    linear-gradient(180deg, #070707 0%, #0d0d0d 100%)}\n.hero-grid{display:grid;grid-template-columns:1.6fr 1fr;gap:60px;align-items:start;padding:120px 0 80px}\n.hero-tag{display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:.04em;color:var(--neon);margin-bottom:32px}\n.hero-tag::before{content:\"\";width:6px;height:6px;background:var(--neon);border-radius:50%;box-shadow:0 0 12px var(--neon)}\nh1{font-size:clamp(44px,7vw,84px);line-height:.95;font-weight:800;letter-spacing:-.02em;color:#fff;margin-bottom:28px}\nh1 .dot{color:var(--neon)}\n.hero-sub{font-size:16px;color:var(--mute);max-width:520px;margin-bottom:40px;line-height:1.7}\n.anchors{display:flex;flex-wrap:wrap;gap:10px}\n.anchors a{display:inline-block;padding:9px 16px;font-size:13px;border:1px solid var(--line-2);border-radius:999px;color:var(--text);transition:border-color .2s,color .2s}\n.anchors a:hover{border-color:var(--neon);color:var(--neon)}\n.info-panel{background:var(--ink-2);border:1px solid var(--line);border-radius:28px;padding:32px;box-shadow:0 24px 60px rgba(0,0,0,.5)}\n.info-panel h2{font-size:12px;color:var(--mute);font-weight:500;letter-spacing:.08em;margin-bottom:24px;text-transform:uppercase}\n.info-row{display:flex;justify-content:space-between;align-items:baseline;padding:16px 0;border-bottom:1px dashed var(--line);font-size:14px}\n.info-row:last-child{border-bottom:none}\n.info-row .k{color:var(--mute)}\n.info-row .v{color:#fff;font-weight:600}\n.info-row .v.green{color:var(--neon)}\n.info-cta{margin-top:28px;display:block;text-align:center;background:var(--neon);color:#0a0a0a;font-weight:700;padding:14px;border-radius:16px;font-size:15px;letter-spacing:.02em}\n.info-cta:hover{background:var(--neon-2)}\nsection{padding:80px 0;border-bottom:1px solid var(--line)}\n.sec-label{font-size:12px;color:var(--neon);letter-spacing:.1em;text-transform:uppercase;margin-bottom:16px}\nh2.sec-title{font-size:clamp(28px,4vw,42px);font-weight:800;color:#fff;margin-bottom:48px;letter-spacing:-.01em;line-height:1.1}\n.method{display:grid;grid-template-columns:1fr 1fr 1fr;gap:24px}\n.method-card{background:var(--ink-2);border-radius:24px;padding:36px 28px;box-shadow:0 12px 40px rgba(0,0,0,.4)}\n.method-card .num{font-size:13px;color:var(--neon);font-weight:700;letter-spacing:.08em;margin-bottom:20px}\n.method-card h3{font-size:20px;color:#fff;margin-bottom:14px;font-weight:700}\n.method-card p{font-size:14px;color:var(--mute);line-height:1.7}\n.table-wrap{overflow-x:auto;border-radius:24px;background:var(--ink-2);box-shadow:0 12px 40px rgba(0,0,0,.4)}\ntable{width:100%;border-collapse:collapse;min-width:680px}\nth,td{text-align:left;padding:22px 24px;border-bottom:1px solid var(--line);font-size:14px;vertical-align:top}\nth{color:var(--mute);font-weight:500;font-size:12px;letter-spacing:.06em;text-transform:uppercase;background:#161616}\ntd.plan-name{color:#fff;font-weight:700;font-size:16px}\n.plan-tag{display:inline-block;background:var(--neon);color:#0a0a0a;font-size:10px;font-weight:700;padding:3px 8px;border-radius:999px;margin-left:8px;vertical-align:middle}\n.plan-price{color:var(--neon);font-weight:700;font-size:15px}\n.plan-annual{color:var(--mute);font-size:12px;margin-top:4px}\ntd.feature{color:var(--text)}\ntd.feature.no{color:#444}\n.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px}\n.faq-item{border-bottom:1px solid var(--line);padding-bottom:24px}\n.faq-item h3{font-size:16px;color:#fff;margin-bottom:12px;font-weight:600;line-height:1.4}\n.faq-item p{font-size:14px;color:var(--mute);line-height:1.7}\n.clients{background:var(--ink-2);border-radius:24px;padding:40px;box-shadow:0 12px 40px rgba(0,0,0,.4)}\n.clients-row{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:24px;padding:18px 0;border-bottom:1px dashed var(--line)}\n.clients-row:last-child{border-bottom:none}\n.clients-row .name{color:#fff;font-weight:600;font-size:15px}\n.clients-row .desc{color:var(--mute);font-size:13px}\n.clients-row .link{color:var(--neon);font-size:13px;font-weight:600}\n.foot{padding:48px 0 64px;background:#070707}\n.foot-content{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px}\n.foot-brand{font-size:16px;color:#fff;font-weight:800}\n.foot-brand .dot{color:var(--neon)}\n.foot-meta{font-size:12px;color:var(--mute)}\n@media (max-width:820px){\n  .hero-grid{grid-template-columns:1fr;gap:40px;padding:80px 0 56px}\n  .method{grid-template-columns:1fr}\n  .faq-grid{grid-template-columns:1fr;gap:32px}\n  .clients-row{flex-direction:column;align-items:flex-start;gap:8px}\n  .foot-content{flex-direction:column;align-items:flex-start}\n}\n</style><main>\n  <header class=\"hero\">\n    <div class=\"wrap hero-grid\">\n      <div>\n        <div class=\"hero-tag\">tgcoach 跨境加速服务</div>\n        <h1>tgcoach · 跨境专线<br>不只是连接<span class=\"dot\">.</span></h1>\n        <p class=\"hero-sub\">为跨境办公、流媒体观看和海外业务提供稳定的网络通道。线路覆盖常见区域，按月付费，随用随停。</p>\n        <nav class=\"anchors\">\n          <a href=\"#method\">工作原理</a>\n          <a href=\"#plans\">套餐价格</a>\n          <a href=\"#clients\">客户端下载</a>\n          <a href=\"#faq\">常见问题</a>\n        </nav>\n      </div>\n      <aside class=\"info-panel\">\n        <h2>核心指标</h2>\n        <div class=\"info-row\"><span class=\"k\">起步价格</span><span class=\"v green\">¥15 / 月</span></div>\n        <div class=\"info-row\"><span class=\"k\">设备上限</span><span class=\"v\">3 ~ 20 台</span></div>\n        <div class=\"info-row\"><span class=\"k\">月流量上限</span><span class=\"v\">100GB 起</span></div>\n        <div class=\"info-row\"><span class=\"k\">支付方式</span><span class=\"v\">按月 / 按年</span></div>\n        <div class=\"info-row\"><span class=\"k\">工单支持</span><span class=\"v\">7×24 小时</span></div>\n        <a href=\"#plans\" class=\"info-cta\">查看套餐</a>\n      </aside>\n    </div>\n  </header>\n\n  <section id=\"method\">\n    <div class=\"wrap\">\n      <div class=\"sec-label\">工作原理</div>\n      <h2 class=\"sec-title\">三步接入跨境专线</h2>\n      <div class=\"method\">\n        <article class=\"method-card\">\n          <div class=\"num\">01 / 选择套餐</div>\n          <h3>按场景订阅</h3>\n          <p>根据设备数量和流量需求选择对应套餐。基础版适合个人日常使用，旗舰版面向高带宽流媒体，团队版支持企业级路由定制。</p>\n        </article>\n        <article class=\"method-card\">\n          <div class=\"num\">02 / 下载客户端</div>\n          <h3>覆盖主流平台</h3>\n          <p>选择对应平台的客户端并导入订阅地址。客户端内会同步节点列表，无需手动配置参数，首次启动即可完成连接。</p>\n        </article>\n        <article class=\"method-card\">\n          <div class=\"num\">03 / 切换节点</div>\n          <h3>按需选择区域</h3>\n          <p>在客户端内选择目标区域节点。节点状态实时更新，可根据延迟和用途切换。连接后访问对应区域资源无需额外设置。</p>\n        </article>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <div class=\"wrap\">\n      <div class=\"sec-label\">套餐价格</div>\n      <h2 class=\"sec-title\">按流量与设备分级</h2>\n      <div class=\"table-wrap\">\n        <table>\n          <thead>\n            <tr>\n              <th>权益对比</th>\n              <th>基础版</th>\n              <th>旗舰版</th>\n              <th>团队版</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <td>月费</td>\n              <td class=\"plan-name\">基础版<br><span class=\"plan-price\">¥15 / 月</span><div class=\"plan-annual\">按年付 ¥150 / 年</div></td>\n              <td class=\"plan-name\">旗舰版<span class=\"plan-tag\">推荐</span><br><span class=\"plan-price\">¥35 / 月</span><div class=\"plan-annual\">按年付 ¥350 / 年</div></td>\n              <td class=\"plan-name\">团队版<br><span class=\"plan-price\">¥85 / 月</span><div class=\"plan-annual\">按年付 ¥850 / 年</div></td>\n            </tr>\n            <tr>\n              <td>月流量</td>\n              <td class=\"feature\">100GB</td>\n              <td class=\"feature\">300GB</td>\n              <td class=\"feature\">1000GB</td>\n            </tr>\n            <tr>\n              <td>同时在线设备</td>\n              <td class=\"feature\">3 台</td>\n              <td class=\"feature\">5 台</td>\n              <td class=\"feature\">20 台</td>\n            </tr>\n            <tr>\n              <td>流媒体解锁</td>\n              <td class=\"feature\">基础流媒体</td>\n              <td class=\"feature\">全节点原生解锁</td>\n              <td class=\"feature\">全节点原生解锁</td>\n            </tr>\n            <tr>\n              <td>线路类型</td>\n              <td class=\"feature\">普通节点池</td>\n              <td class=\"feature\">IPLC 游戏加速优化</td>\n              <td class=\"feature\">VIP 高带宽 + 企业路由定制</td>\n            </tr>\n            <tr>\n              <td>工单支持</td>\n              <td class=\"feature\">标准响应</td>\n              <td class=\"feature\">7×24 优先工单</td>\n              <td class=\"feature\">专属客户经理</td>\n            </tr>\n          </tbody>\n        </table>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <div class=\"wrap\">\n      <div class=\"sec-label\">客户端</div>\n      <h2 class=\"sec-title\">平台支持与获取方式</h2>\n      <div class=\"clients\">\n        <div class=\"clients-row\">\n          <span class=\"name\">Windows 客户端</span>\n          <span class=\"desc\">通过订阅地址导入节点列表</span>\n          <a href=\"#\" class=\"link\">获取方式</a>\n        </div>\n        <div class=\"clients-row\">\n          <span class=\"name\">macOS 客户端</span>\n          <span class=\"desc\">支持 Apple Silicon 与 Intel 架构</span>\n          <a href=\"#\" class=\"link\">获取方式</a>\n        </div>\n        <div class=\"clients-row\">\n          <span class=\"name\">Android 客户端</span>\n          <span class=\"desc\">导入订阅后自动同步节点</span>\n          <a href=\"#\" class=\"link\">获取方式</a>\n        </div>\n        <div class=\"clients-row\">\n          <span class=\"name\">iOS 客户端</span>\n          <span class=\"desc\">需通过对应商店或分发渠道获取</span>\n          <a href=\"#\" class=\"link\">获取方式</a>\n        </div>\n        <div class=\"clients-row\">\n          <span class=\"name\">路由器固件</span>\n          <span class=\"desc\">支持常见软路由系统接入</span>\n          <a href=\"#\" class=\"link\">获取方式</a>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <div class=\"wrap\">\n      <div class=\"sec-label\">常见问题</div>\n      <h2 class=\"sec-title\">订阅前需要了解的事</h2>\n      <div class=\"faq-grid\">\n        <article class=\"faq-item\">\n          <h3>套餐流量是否可以结转？</h3>\n          <p>流量按自然月计算，每月未使用部分不结转至下月。如长期用量较高，可在套餐到期前升级至更高档位，系统按剩余天数折算差价。</p>\n        </article>\n        <article class=\"faq-item\">\n          <h3>切换套餐后设备需要重新配置吗？</h3>\n          <p>不需要。升级或降级后，订阅地址保持不变，客户端内刷新订阅即可同步新的流量额度和节点权限，无需重新导入。</p>\n        </article>\n        <article class=\"faq-item\">\n          <h3>团队版是否支持多账号分配？</h3>\n          <p>团队版以单一订阅地址形式下发，通过设备数量上限进行管理。如需为不同成员设置独立账号或独立流量配额，可联系客户经理定制。</p>\n        </article>\n        <article class=\"faq-item\">\n          <h3>是否支持试用或退款？</h3>\n          <p>暂不提供免费试用。订阅后如遇线路质量持续异常，可在 7 天内通过工单提交网络日志申请评估，经核实后可按比例退回未使用部分。</p>\n        </article>\n        <article class=\"faq-item\">\n          <h3>不同套餐的节点差异在哪里？</h3>\n          <p>基础版使用普通节点池，旗舰版增加 IPLC 游戏加速优化线路，团队版在此基础上提供 VIP 高带宽节点和企业定制路由，适合对延迟敏感的用途。</p>\n        </article>\n        <article class=\"faq-item\">\n          <h3>客户端支持哪些协议？</h3>\n          <p>客户端支持常见跨境代理协议，具体协议类型随节点配置自动匹配，普通用户无需手动选择。高级用户可在客户端内查看当前协议参数。</p>\n        </article>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer class=\"foot\">\n  <div class=\"wrap foot-content\">\n    <div class=\"foot-brand\">tgcoach<span class=\"dot\">.</span></div>\n    <div class=\"foot-meta\">跨境网络加速服务 · 本页面内容仅供参考</div>\n  </div>\n</footer>",
+          "hash": "8563dd37da4ae6304b158265269fcc83c1c2c1c5726f05383af135aa823abe2d",
+          "seo": {
+            "title": "tgcoach - 跨境网络专线与流媒体加速服务",
+            "keywords": "tgcoach,跨境网络,流媒体加速,IPLC专线,企业网络加速",
+            "description": "tgcoach 提供跨境网络加速、流媒体解锁与企业专线服务，月付 ¥15 起，支持多设备同时在线，覆盖基础、旗舰与团队场景。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "5000",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xshwk.cn",
+    "host": "p-0abcbd66a6.xshwk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "99d75d72ad6c2420d9d1abc56f890d092976d1a9a93e118fdd402e24f525384d",
+    "sitemap.xml": "8a1b62d024d6fb7244aceb8371948ad6d171f3e2cb67b5276aeb4ab020250ecf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "34f8de00a5ca970909a360e263eeae789f505cc27e96fa49cbccf261f16a24d8",
+    "robots.txt": "18109ba4ac7c5282b3807a07eb21a2bbfbe1189d172104dcc30dd29f1a6b4106",
+    "ae2e5f1b824380d802113bd8d344c7c7.txt": "b5fae0b0a1353e8e54a8c47ae026884c2d93553a6d4836214da209d986d5c059"
+  },
+  "revision": "9cd19301126d17719312f6d954685a2edbd8b423b5bf418a0e3db861248d09ce"
+}
